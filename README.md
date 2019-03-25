@@ -1,0 +1,2 @@
+# aimbot
+for buildroyale
